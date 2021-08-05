@@ -10,5 +10,5 @@ javac UnicodeExtractor.java
 ## Run
 
 ```
-cat kannada.txt | java UnicodeExtractor > kannada_unicodes.tx
+cat kannada.txt | java UnicodeExtractor > kannada_unicodes.txt
 ```
